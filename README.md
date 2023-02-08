@@ -12,6 +12,6 @@
 
 # Chatbot GUI
 
-[!alt text](https://github.com/Mr-Ferjani/Chatbot-for-Disease-Prediction/blob/main/Chatbot.png)
+![alt text](https://github.com/Mr-Ferjani/Chatbot-for-Disease-Prediction/blob/main/Chatbot.png)
 
  
