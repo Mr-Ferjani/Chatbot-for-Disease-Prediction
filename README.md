@@ -6,4 +6,12 @@
 * Trained SVM, Naive Bayes and ANN to perform diagnosis to the patients.
 * Built a medical Chatbot GUI.
 
+# Code and Resources Used
+**Python Version:** 3.7\
+**Packages:** Pandas, numpy, nltk, torch, sklearn, matplotlib, seaborn, flask, json, re, pickle
+
+# Chatbot GUI
+
+[!alt text](https://github.com/Mr-Ferjani/Chatbot-for-Disease-Prediction/blob/main/Chatbot.png)
+
  
